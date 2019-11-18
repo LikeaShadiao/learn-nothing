@@ -1,3 +1,4 @@
+//规定前序输入，没有数的地方用空格
 #include<stdio.h>
 #include<stdlib.h>
 typedef char ElemType;
